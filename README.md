@@ -1,3 +1,7 @@
+2026 GreyMug
+
+<img width="256" height="256" alt="logo" src="https://github.com/user-attachments/assets/34a8c8fd-17b0-4952-8ed4-e6e74f7c8509" />
+
 GMS Toolbox is a versatile software application designed to enhance productivity and streamline workflows by providing a comprehensive suite of tools. Whether you are a professional, researcher, or hobbyist, GMS Toolbox consolidates multiple utilities into a single, command line based interface, allowing for efficient task management, data analysis, and system operations while utilizing very few resources on your PC.
 
 As of now (version 1.0BETA) GMS Toolbox only contains 2 utilities, Celsius to Fahrenheit Converter and Sqrt Calculator, both of which can be installed as stand-alone apps from our official GitHub repository. Many utilities will be added over time with updates, so it is recommended to keep GMS Toolbox up to date by installing the latest release from our official GitHub repository.
